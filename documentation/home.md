@@ -24,3 +24,11 @@ Documentation and examples for Cauldron typography, including global settings, h
 
 ## Headings
 All HTML headings, `<h1>` through `<h6>`, are available.
+
+### Global heading styles
+
+```
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+line-height: 1.2rem;
+```
