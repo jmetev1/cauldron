@@ -22,19 +22,24 @@ Documentation and examples for Cauldron typography, including global settings, h
 * Font stack: `font-family: "Roboto", sans-serif;`
 * Use the browser's default root `font-size` (typically 16px)
 
+## Variables
+```
+--font-weight-regular: 400;
+--font-weight-medium: 500;
+--font-weight-bold: 700;
+```
+
 ## Headings
 All HTML headings, `<h1>` through `<h6>`, are available.
 
 ### Global heading styles
-
 ```
 font-family: "Roboto", sans-serif;
-font-weight: 500;
+font-weight: var(--font-weight-medium);
 line-height: 1.2rem;
 ```
 
 ### Headings
-
 - Heading 1: `font-size: 2rem;` _// 32px_
 - Heading 2: `font-size: 1.5rem;` _// 24px_
 - Heading 3: `font-size: 1.25rem` _// 20px_
@@ -46,7 +51,6 @@ line-height: 1.2rem;
 Cauldron includes a wide range of variables to modify an element’s appearance.
 
 ## Variables and sizes
-
 ```
 --space-2: 0.125rem; // 2px
 --space-4: 0.25rem; // 4px
