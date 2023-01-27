@@ -37,6 +37,7 @@ All HTML headings, `<h1>` through `<h6>`, are available.
 font-family: "Roboto", sans-serif;
 font-weight: var(--font-weight-medium);
 line-height: 1.2rem;
+margin-bottom: var(--space-16);
 ```
 
 ### Headings
@@ -46,6 +47,13 @@ line-height: 1.2rem;
 - Heading 4: `font-size: 1.125rem` _// 18px_
 - Heading 5: `font-size: 0.938rem` _// 15px_
 - Heading 6: `font-size: 0.813rem` _// 13px_
+
+## Paragraph
+```
+font-weight: var(--font-weight-regular);
+line-height: 1.2rem; // 18px
+margin-bottom: var(--space-16);
+```
 
 # Spacing
 Cauldron includes a wide range of variables to modify an element’s appearance.
