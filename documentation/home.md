@@ -72,3 +72,29 @@ Cauldron includes a wide range of variables to modify an element’s appearance.
 --space-40: 2.5rem; // 40px
 --space-48: 3rem; // 48px
 ```
+
+# Colors
+Convey meaning through color with a handful of color variables for Dark and Light themes.
+
+## Dark Theme
+| Sample | Hexcode | Variable |
+| :---: | --- | --- |
+| ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--white` |
+| ![#536370](https://placehold.co/20x20/536370/536370.png) | `#536370` | `--dark-workspace-color` |
+| ![#5D676F](https://placehold.co/20x20/5D676F/5D676F.png) | `#5D676F` | `--stroke-dark` |
+| ![#FDFDFD](https://placehold.co/20x20/FDFDFD/FDFDFD.png) | `#FDFDFD` | `--grey-10` |
+| `#F2F2F2` | `--grey-20` |
+| `#E0E0E0` | `--grey-30` |
+| `#CCCCCC` | `--grey-40` |
+| `#666666` | `--grey-60` |
+| `#4D4D4D` | `--grey-80` |
+| `#333333` | `--grey-90` |
+| `#02101A` | `--accent-dark` |
+| `#283640` | `--accent-medium` |
+| `#D4DDE0` | `--accent-light` |
+| `#A5DB75` | `--accent-success` |
+| `#4FA630` | `--accent-success-high-contrast` |
+| `#D1FFA4` | `--accent-success-light` |
+| `#57A711` | `--accent-success-dark` |
+
+## Light Theme
