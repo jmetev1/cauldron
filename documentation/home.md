@@ -37,7 +37,7 @@ All HTML headings, `<h1>` through `<h6>`, are available.
 ```
 font-family: "Roboto", sans-serif;
 font-weight: var(--font-weight-medium);
-margin-bottom: var(--space-16);
+margin-bottom: var(--space-8);
 line-height: 1.2rem;
 ```
 
