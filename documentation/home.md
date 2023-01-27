@@ -83,18 +83,18 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 | ![#536370](https://placehold.co/20x20/536370/536370.png) | `#536370` | `--dark-workspace-color` |
 | ![#5D676F](https://placehold.co/20x20/5D676F/5D676F.png) | `#5D676F` | `--stroke-dark` |
 | ![#FDFDFD](https://placehold.co/20x20/FDFDFD/FDFDFD.png) | `#FDFDFD` | `--grey-10` |
-| `#F2F2F2` | `--grey-20` |
-| `#E0E0E0` | `--grey-30` |
-| `#CCCCCC` | `--grey-40` |
-| `#666666` | `--grey-60` |
-| `#4D4D4D` | `--grey-80` |
-| `#333333` | `--grey-90` |
-| `#02101A` | `--accent-dark` |
-| `#283640` | `--accent-medium` |
-| `#D4DDE0` | `--accent-light` |
-| `#A5DB75` | `--accent-success` |
-| `#4FA630` | `--accent-success-high-contrast` |
-| `#D1FFA4` | `--accent-success-light` |
-| `#57A711` | `--accent-success-dark` |
+| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--grey-20` |
+| ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--grey-30` |
+| ![#CCCCCC](https://placehold.co/20x20/CCCCCC/CCCCCC.png) | `#CCCCCC` | `--grey-40` |
+| ![#666666](https://placehold.co/20x20/666666/666666.png) | `#666666` | `--grey-60` |
+| ![#4D4D4D](https://placehold.co/20x20/4D4D4D/4D4D4D.png) | `#4D4D4D` | `--grey-80` |
+| ![#333333](https://placehold.co/20x20/333333/333333.png) | `#333333` | `--grey-90` |
+| ![#02101A](https://placehold.co/20x20/02101A/02101A.png) | `#02101A` | `--accent-dark` |
+| ![#283640](https://placehold.co/20x20/283640/283640.png) | `#283640` | `--accent-medium` |
+| ![#D4DDE0](https://placehold.co/20x20/D4DDE0/D4DDE0.png) | `#D4DDE0` | `--accent-light` |
+| ![#A5DB75](https://placehold.co/20x20/A5DB75/A5DB75.png) | `#A5DB75` | `--accent-success` |
+| ![#4FA630](https://placehold.co/20x20/4FA630/4FA630.png) | `#4FA630` | `--accent-success-high-contrast` |
+| ![#D1FFA4](https://placehold.co/20x20/D1FFA4/D1FFA4.png) | `#D1FFA4` | `--accent-success-light` |
+| ![#57A711](https://placehold.co/20x20/57A711/57A711.png) | `#57A711` | `--accent-success-dark` |
 
 ## Light Theme
