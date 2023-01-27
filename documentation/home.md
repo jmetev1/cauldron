@@ -23,4 +23,4 @@ Documentation and examples for Cauldron typography, including global settings, h
 * Use the browser's default root `font-size` (typically 16px)
 
 ## Headings
-All HTML headings, <h1> through <h6>, are available.
+All HTML headings, `<h1>` through `<h6>`, are available.
