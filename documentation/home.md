@@ -32,3 +32,30 @@ font-family: "Roboto", sans-serif;
 font-weight: 500;
 line-height: 1.2rem;
 ```
+
+### Headings
+
+- Heading 1: `font-size: 2rem;` _// 32px_
+- Heading 2: `font-size: 1.5rem;` _// 24px_
+- Heading 3: `font-size: 1.25rem` _// 20px_
+- Heading 4: `font-size: 1.125rem` _// 18px_
+- Heading 5: `font-size: 0.938rem` _// 15px_
+- Heading 6: `font-size: 0.813rem` _// 13px_
+
+# Spacing
+Cauldron includes a wide range of variables to modify an element’s appearance.
+
+## Variables and sizes
+Spacing is based on the median size of 16px.
+
+```
+--space-2: 2px;
+--space-4: 4px;
+--space-8: 8px;
+--space-12: 12px;
+--space-16: 16px;
+--space-24: 24px;
+--space-32: 32px;
+--space-40: 40px;
+--space-48: 48px;
+```
