@@ -46,16 +46,16 @@ line-height: 1.2rem;
 Cauldron includes a wide range of variables to modify an element’s appearance.
 
 ## Variables and sizes
-Spacing is based on the median size of 16px.
 
 ```
---space-2: 2px;
---space-4: 4px;
---space-8: 8px;
---space-12: 12px;
---space-16: 16px;
---space-24: 24px;
---space-32: 32px;
---space-40: 40px;
---space-48: 48px;
+--space-2: 0.125rem; // 2px
+--space-4: 0.25rem; // 4px
+--space-6: 0.375rem; // 6px
+--space-8: 0.5rem; // 8px
+--space-12: 0.75rem; // 12px
+--space-16: 1rem; // 16px
+--space-24: 1.5rem; // 24px
+--space-32: 2rem; // 32px
+--space-40: 2.5rem; // 40px
+--space-48: 3rem; // 48px
 ```
