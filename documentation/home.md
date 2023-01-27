@@ -36,8 +36,8 @@ All HTML headings, `<h1>` through `<h6>`, are available.
 ```
 font-family: "Roboto", sans-serif;
 font-weight: var(--font-weight-medium);
-line-height: 1.2rem;
 margin-bottom: var(--space-16);
+line-height: 1.2rem;
 ```
 
 ### Headings
@@ -51,8 +51,8 @@ margin-bottom: var(--space-16);
 ## Paragraph
 ```
 font-weight: var(--font-weight-regular);
-line-height: 1.2rem; // 18px
 margin-bottom: var(--space-16);
+line-height: 1.2rem;
 ```
 
 # Spacing
