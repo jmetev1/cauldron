@@ -78,7 +78,7 @@ Cauldron includes a wide range of variables to modify an element’s appearance.
 Convey meaning through color with a handful of color variables for Dark and Light themes.
 
 | Sample | Hexcode | Variable | Notes |
-| :---: | --- | --- |
+| :---: | --- | --- | --- |
 | ![#3C7AAE](https://placehold.co/20x20/3C7AAE/3C7AAE.png) | `#3C7AAE` | `--accent-primary` | Light theme |
 | ![#316091](https://placehold.co/20x20/316091/316091.png) | `#316091` | `--accent-primary-active` | Light theme |
 | ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--accent-secondary` | Light theme |
