@@ -101,7 +101,7 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 | ![#4FA630](https://placehold.co/20x20/4FA630/4FA630.png) | `#4FA630` | `--accent-success-high-contrast` | Light theme |
 | ![#D1FFA4](https://placehold.co/20x20/D1FFA4/D1FFA4.png) | `#D1FFA4` | `--accent-success-light` | Both |
 | ![#57A711](https://placehold.co/20x20/57A711/57A711.png) | `#57A711` | `--accent-success-dark` | Dark theme |
-| ![#D93251](https://placehold.co/20x20/57A711/D93251.png) | `#D93251` | `--accent-error` | Both |
+| ![#D93251](https://placehold.co/20x20/D93251/D93251.png) | `#D93251` | `--accent-error` | Both |
 | ![#C92E40](https://placehold.co/20x20/C92E40/C92E40.png) | `#C92E40` | `--accent-error-active` | Both |
 | ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--accent-danger` | Both |
 | ![#F7846C](https://placehold.co/20x20/F7846C/F7846C.png) | `#F7846C` | `--accent-danger-light` | Dark theme |
