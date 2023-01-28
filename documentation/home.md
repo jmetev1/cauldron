@@ -115,7 +115,7 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 | ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--issue-critical` | Both |
 | ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--issue-serious` | Both |
 | ![#F0C4F8](https://placehold.co/20x20/F0C4F8/F0C4F8.png) | `#F0C4F8` | `--issue-moderate` | Both |
-| ![#F0F2F5](https://placehold.co/20x20/F0F2F5/F0F2F5.png) | `#F0F2F5` | `--issue-minor` | Both |
+| ![#F0F2F5](https://placehold.co/20x20/F0F2F5/F0F2F5.png) | `#F0F2F5` | `--issue-minor` | Currently using `#F2F2F2`. Needs to be updated. |
 | ![#666666](https://placehold.co/20x20/666666/666666.png) | `#666666` | `--text-color-base` | Light theme |
 | ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--text-color-light` | Dark theme |
-| ![#CCCCCC](https://placehold.co/20x20/CCCCCC/CCCCCC.png) | `#CCCCCC` | `--text-color-light-disabled` | Currently using rgba (0,0,0,.5), should be changed |
+| ![#CCCCCC](https://placehold.co/20x20/CCCCCC/CCCCCC.png) | `#CCCCCC` | `--text-color-light-disabled` | Currently using `rgba (0,0,0,.5)`, solid color |
