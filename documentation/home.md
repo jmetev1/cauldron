@@ -22,6 +22,7 @@ Documentation and examples for Cauldron typography, including global settings, h
 ## Global settings
 * Font stack: `font-family: "Roboto", sans-serif;`
 * Use the browser's default root `font-size` (typically 16px)
+* It is best practice to set a `margin-bottom` to your typography only (do not set `margin-top`)
 
 ## Variables
 ```
@@ -79,6 +80,11 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 ## Dark Theme
 | Sample | Hexcode | Variable |
 | :---: | --- | --- |
+| ![#3C7AAE](https://placehold.co/20x20/3C7AAE/3C7AAE.png) | `#3C7AAE` | `--accent-primary` |
+| ![#316091](https://placehold.co/20x20/316091/316091.png) | `#316091` | `--accent-primary-active` |
+| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--accent-secondary` |
+| ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--accent-secondary-active` |
+| ![#000000](https://placehold.co/20x20/000000/000000.png) | `#000000` | `--black` |
 | ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--white` |
 | ![#536370](https://placehold.co/20x20/536370/536370.png) | `#536370` | `--dark-workspace-color` |
 | ![#5D676F](https://placehold.co/20x20/5D676F/5D676F.png) | `#5D676F` | `--stroke-dark` |
@@ -96,5 +102,20 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 | ![#4FA630](https://placehold.co/20x20/4FA630/4FA630.png) | `#4FA630` | `--accent-success-high-contrast` |
 | ![#D1FFA4](https://placehold.co/20x20/D1FFA4/D1FFA4.png) | `#D1FFA4` | `--accent-success-light` |
 | ![#57A711](https://placehold.co/20x20/57A711/57A711.png) | `#57A711` | `--accent-success-dark` |
+| ![#D93251](https://placehold.co/20x20/57A711/D93251.png) | `#D93251` | `--accent-error` |
+| ![#C92E40](https://placehold.co/20x20/C92E40/C92E40.png) | `#C92E40` | `--accent-error-active` |
+| ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--accent-danger` |
+| ![#F7846C](https://placehold.co/20x20/F7846C/F7846C.png) | `#F7846C` | `--accent-danger-light` |
+| ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--accent-warning` |
+| ![#FFA1A1](https://placehold.co/20x20/FFA1A1/FFA1A1.png) | `#FFA1A1` | `--accent-warning-light` |
+| ![#FFE69F](https://placehold.co/20x20/FFE69F/FFE69F.png) | `#FFE69F` | `--accent-caution` |
+| ![#6CDAF2](https://placehold.co/20x20/6CDAF2/6CDAF2.png) | `#6CDAF2` | `--accent-info` |
+| ![#83E4FA](https://placehold.co/20x20/83E4FA/83E4FA.png) | `#83E4FA` | `--accent-info-light` |
+| ![#C11BDE](https://placehold.co/20x20/C11BDE/C11BDE.png) | `#C11BDE` | `--focus-light` |
+| ![#EB94FF](https://placehold.co/20x20/EB94FF/EB94FF.png) | `#EB94FF` | `--focus-dark` |
+| ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--issue-critical` |
+| ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--issue-serious` |
+| ![#F0C4F8](https://placehold.co/20x20/F0C4F8/F0C4F8.png) | `#F0C4F8` | `--issue-moderate` |
+| ![#F0F2F5](https://placehold.co/20x20/F0F2F5/F0F2F5.png) | `#F0F2F5` | `--issue-minor` |
 
 ## Light Theme
