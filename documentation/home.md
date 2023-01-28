@@ -77,45 +77,45 @@ Cauldron includes a wide range of variables to modify an element’s appearance.
 # Colors
 Convey meaning through color with a handful of color variables for Dark and Light themes.
 
-## Dark Theme
-| Sample | Hexcode | Variable |
+| Sample | Hexcode | Variable | Notes |
 | :---: | --- | --- |
-| ![#3C7AAE](https://placehold.co/20x20/3C7AAE/3C7AAE.png) | `#3C7AAE` | `--accent-primary` |
-| ![#316091](https://placehold.co/20x20/316091/316091.png) | `#316091` | `--accent-primary-active` |
-| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--accent-secondary` |
-| ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--accent-secondary-active` |
-| ![#000000](https://placehold.co/20x20/000000/000000.png) | `#000000` | `--black` |
-| ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--white` |
-| ![#536370](https://placehold.co/20x20/536370/536370.png) | `#536370` | `--dark-workspace-color` |
-| ![#5D676F](https://placehold.co/20x20/5D676F/5D676F.png) | `#5D676F` | `--stroke-dark` |
-| ![#FDFDFD](https://placehold.co/20x20/FDFDFD/FDFDFD.png) | `#FDFDFD` | `--grey-10` |
-| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--grey-20` |
-| ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--grey-30` |
-| ![#CCCCCC](https://placehold.co/20x20/CCCCCC/CCCCCC.png) | `#CCCCCC` | `--grey-40` |
-| ![#666666](https://placehold.co/20x20/666666/666666.png) | `#666666` | `--grey-60` |
-| ![#4D4D4D](https://placehold.co/20x20/4D4D4D/4D4D4D.png) | `#4D4D4D` | `--grey-80` |
-| ![#333333](https://placehold.co/20x20/333333/333333.png) | `#333333` | `--grey-90` |
-| ![#02101A](https://placehold.co/20x20/02101A/02101A.png) | `#02101A` | `--accent-dark` |
-| ![#283640](https://placehold.co/20x20/283640/283640.png) | `#283640` | `--accent-medium` |
-| ![#D4DDE0](https://placehold.co/20x20/D4DDE0/D4DDE0.png) | `#D4DDE0` | `--accent-light` |
-| ![#A5DB75](https://placehold.co/20x20/A5DB75/A5DB75.png) | `#A5DB75` | `--accent-success` |
-| ![#4FA630](https://placehold.co/20x20/4FA630/4FA630.png) | `#4FA630` | `--accent-success-high-contrast` |
-| ![#D1FFA4](https://placehold.co/20x20/D1FFA4/D1FFA4.png) | `#D1FFA4` | `--accent-success-light` |
-| ![#57A711](https://placehold.co/20x20/57A711/57A711.png) | `#57A711` | `--accent-success-dark` |
-| ![#D93251](https://placehold.co/20x20/57A711/D93251.png) | `#D93251` | `--accent-error` |
-| ![#C92E40](https://placehold.co/20x20/C92E40/C92E40.png) | `#C92E40` | `--accent-error-active` |
-| ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--accent-danger` |
-| ![#F7846C](https://placehold.co/20x20/F7846C/F7846C.png) | `#F7846C` | `--accent-danger-light` |
-| ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--accent-warning` |
-| ![#FFA1A1](https://placehold.co/20x20/FFA1A1/FFA1A1.png) | `#FFA1A1` | `--accent-warning-light` |
-| ![#FFE69F](https://placehold.co/20x20/FFE69F/FFE69F.png) | `#FFE69F` | `--accent-caution` |
-| ![#6CDAF2](https://placehold.co/20x20/6CDAF2/6CDAF2.png) | `#6CDAF2` | `--accent-info` |
-| ![#83E4FA](https://placehold.co/20x20/83E4FA/83E4FA.png) | `#83E4FA` | `--accent-info-light` |
-| ![#C11BDE](https://placehold.co/20x20/C11BDE/C11BDE.png) | `#C11BDE` | `--focus-light` |
-| ![#EB94FF](https://placehold.co/20x20/EB94FF/EB94FF.png) | `#EB94FF` | `--focus-dark` |
-| ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--issue-critical` |
-| ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--issue-serious` |
-| ![#F0C4F8](https://placehold.co/20x20/F0C4F8/F0C4F8.png) | `#F0C4F8` | `--issue-moderate` |
-| ![#F0F2F5](https://placehold.co/20x20/F0F2F5/F0F2F5.png) | `#F0F2F5` | `--issue-minor` |
-
-## Light Theme
+| ![#3C7AAE](https://placehold.co/20x20/3C7AAE/3C7AAE.png) | `#3C7AAE` | `--accent-primary` | Light theme |
+| ![#316091](https://placehold.co/20x20/316091/316091.png) | `#316091` | `--accent-primary-active` | Light theme |
+| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--accent-secondary` | Light theme |
+| ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--accent-secondary-active` | Light theme |
+| ![#000000](https://placehold.co/20x20/000000/000000.png) | `#000000` | `--black` | Both |
+| ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--white` | Both |
+| ![#536370](https://placehold.co/20x20/536370/536370.png) | `#536370` | `--dark-workspace-color` | Dark theme |
+| ![#5D676F](https://placehold.co/20x20/5D676F/5D676F.png) | `#5D676F` | `--stroke-dark` | Dark theme |
+| ![#FDFDFD](https://placehold.co/20x20/FDFDFD/FDFDFD.png) | `#FDFDFD` | `--grey-10` | Both |
+| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` | `--grey-20` | Both |
+| ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--grey-30` | Both |
+| ![#CCCCCC](https://placehold.co/20x20/CCCCCC/CCCCCC.png) | `#CCCCCC` | `--grey-40` | Both |
+| ![#666666](https://placehold.co/20x20/666666/666666.png) | `#666666` | `--grey-60` | Both |
+| ![#4D4D4D](https://placehold.co/20x20/4D4D4D/4D4D4D.png) | `#4D4D4D` | `--grey-80` | Both |
+| ![#333333](https://placehold.co/20x20/333333/333333.png) | `#333333` | `--grey-90` | Both |
+| ![#02101A](https://placehold.co/20x20/02101A/02101A.png) | `#02101A` | `--accent-dark` | Both |
+| ![#283640](https://placehold.co/20x20/283640/283640.png) | `#283640` | `--accent-medium` | Both |
+| ![#D4DDE0](https://placehold.co/20x20/D4DDE0/D4DDE0.png) | `#D4DDE0` | `--accent-light` | Both |
+| ![#A5DB75](https://placehold.co/20x20/A5DB75/A5DB75.png) | `#A5DB75` | `--accent-success` | Both |
+| ![#4FA630](https://placehold.co/20x20/4FA630/4FA630.png) | `#4FA630` | `--accent-success-high-contrast` | Light theme |
+| ![#D1FFA4](https://placehold.co/20x20/D1FFA4/D1FFA4.png) | `#D1FFA4` | `--accent-success-light` | Both |
+| ![#57A711](https://placehold.co/20x20/57A711/57A711.png) | `#57A711` | `--accent-success-dark` | Dark theme |
+| ![#D93251](https://placehold.co/20x20/57A711/D93251.png) | `#D93251` | `--accent-error` | Both |
+| ![#C92E40](https://placehold.co/20x20/C92E40/C92E40.png) | `#C92E40` | `--accent-error-active` | Both |
+| ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--accent-danger` | Both |
+| ![#F7846C](https://placehold.co/20x20/F7846C/F7846C.png) | `#F7846C` | `--accent-danger-light` | Dark theme |
+| ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--accent-warning` | Both |
+| ![#FFA1A1](https://placehold.co/20x20/FFA1A1/FFA1A1.png) | `#FFA1A1` | `--accent-warning-light` | Both |
+| ![#FFE69F](https://placehold.co/20x20/FFE69F/FFE69F.png) | `#FFE69F` | `--accent-caution` | Both |
+| ![#6CDAF2](https://placehold.co/20x20/6CDAF2/6CDAF2.png) | `#6CDAF2` | `--accent-info` | Both |
+| ![#83E4FA](https://placehold.co/20x20/83E4FA/83E4FA.png) | `#83E4FA` | `--accent-info-light` | Both |
+| ![#C11BDE](https://placehold.co/20x20/C11BDE/C11BDE.png) | `#C11BDE` | `--focus-light` | Dark theme |
+| ![#EB94FF](https://placehold.co/20x20/EB94FF/EB94FF.png) | `#EB94FF` | `--focus-dark` | Light theme |
+| ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--issue-critical` | Both |
+| ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--issue-serious` | Both |
+| ![#F0C4F8](https://placehold.co/20x20/F0C4F8/F0C4F8.png) | `#F0C4F8` | `--issue-moderate` | Both |
+| ![#F0F2F5](https://placehold.co/20x20/F0F2F5/F0F2F5.png) | `#F0F2F5` | `--issue-minor` | Both |
+| ![#666666](https://placehold.co/20x20/666666/666666.png) | `#666666` | `--text-color-base` | Light theme |
+| ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--text-color-light` | Dark theme |
+| ![#CCCCCC](https://placehold.co/20x20/CCCCCC/CCCCCC.png) | `#CCCCCC` | `--text-color-light-disabled` | Currently using rgba (0,0,0,.5), should be changed |
