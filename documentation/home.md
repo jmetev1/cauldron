@@ -11,10 +11,10 @@ Breakpoints are widths that determine how your responsive layout behaves across 
 
 | Breakpoint  | Design Viewport |
 | ------------- | ------------- |
-| >= 992px  | 1440px design |
-| <= 991px  | 1024px design |
-| <= 767px  | 720px design |
-| <= 512px  | 320px design |
+| >= 992px  | 1440px design (large) |
+| <= 991px  | 1024px design (medium) |
+| <= 767px  | 720px design (small) |
+| <= 512px  | 320px design (extra small) |
 
 # Typography
 Documentation and examples for Cauldron typography, including global settings, headings, body text, lists, and more.
