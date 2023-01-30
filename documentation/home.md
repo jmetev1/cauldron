@@ -5,6 +5,8 @@ Important links to use and understand Cauldron.
 - Dark theme UXPin: https://preview.uxpin.com/4052c8b6f05ce03e28813f28deb3a682950c2ac6cvidm
 - Light theme UXPin: https://preview.uxpin.com/68df515d0023cc4b79f25d43f7663e24e363b1b9cvidm
 - PX to REM converter: https://nekocalc.com/px-to-rem-converter
+- Flexbox and truncated text: https://css-tricks.com/flexbox-truncated-text/
+- Complete guide to flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 # Breakpoints
 Breakpoints are widths that determine how your responsive layout behaves across device or viewport sizes in Cauldron.
