@@ -1,5 +1,5 @@
 # Resources
-Important links to use and understand Cauldron.
+Important links to help make developing with Cauldron a little easier!
 
 - Cauldron: https://cauldron.dequelabs.com
 - Dark theme UXPin: https://preview.uxpin.com/4052c8b6f05ce03e28813f28deb3a682950c2ac6cvidm
