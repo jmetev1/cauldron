@@ -88,6 +88,7 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 | ![#E0E0E0](https://placehold.co/20x20/E0E0E0/E0E0E0.png) | `#E0E0E0` | `--accent-secondary-active` | Light theme |
 | ![#000000](https://placehold.co/20x20/000000/000000.png) | `#000000` | `--black` | Both |
 | ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | `#FFFFFF` | `--white` | Both |
+| ![#F7F7F7](https://placehold.co/20x20/F7F7F7/F7F7F7.png) | `#F7F7F7` | `--light-workspace-color` | Light theme |
 | ![#536370](https://placehold.co/20x20/536370/536370.png) | `#536370` | `--dark-workspace-color` | Dark theme |
 | ![#5D676F](https://placehold.co/20x20/5D676F/5D676F.png) | `#5D676F` | `--stroke-dark` | Dark theme |
 | ![#FDFDFE](https://placehold.co/20x20/FDFDFE/FDFDFE.png) | `#FDFDFE` | `--grey-10` | Both |
