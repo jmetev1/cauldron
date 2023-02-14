@@ -114,8 +114,9 @@ Convey meaning through color with a handful of color variables for Dark and Ligh
 | ![#FFE69F](https://placehold.co/20x20/FFE69F/FFE69F.png) | `#FFE69F` | `--accent-caution` | Both |
 | ![#6CDAF2](https://placehold.co/20x20/6CDAF2/6CDAF2.png) | `#6CDAF2` | `--accent-info` | Both |
 | ![#83E4FA](https://placehold.co/20x20/83E4FA/83E4FA.png) | `#83E4FA` | `--accent-info-light` | Both |
-| ![#C11BDE](https://placehold.co/20x20/C11BDE/C11BDE.png) | `#C11BDE` | `--focus-light` | Dark theme |
-| ![#EB94FF](https://placehold.co/20x20/EB94FF/EB94FF.png) | `#EB94FF` | `--focus-dark` | Light theme |
+| ![#B51AD1](https://placehold.co/20x20/B51AD1/B51AD1.png) | `#B51AD1` | `--accent-purple-high-contrast` | Light theme |
+| ![#C11BDE](https://placehold.co/20x20/C11BDE/C11BDE.png) | `#C11BDE` | `--focus-light` | Light theme |
+| ![#EB94FF](https://placehold.co/20x20/EB94FF/EB94FF.png) | `#EB94FF` | `--focus-dark` | Dark theme |
 | ![#FE6D6B](https://placehold.co/20x20/FE6D6B/FE6D6B.png) | `#FE6D6B` | `--issue-critical` | Both |
 | ![#FFDD75](https://placehold.co/20x20/FFDD75/FFDD75.png) | `#FFDD75` | `--issue-serious` | Both |
 | ![#F0C4F8](https://placehold.co/20x20/F0C4F8/F0C4F8.png) | `#F0C4F8` | `--issue-moderate` | Both |
