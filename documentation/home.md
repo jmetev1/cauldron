@@ -15,10 +15,10 @@ Breakpoints are widths that determine how your responsive layout behaves across 
 ## Web Applications
 | Breakpoint  | Design Viewport |
 | ------------- | ------------- |
-| >= 992px  | 1440px design (large) |
-| <= 991px  | 1024px design (medium) |
-| <= 767px  | 720px design (small) |
 | <= 512px  | 320px design (extra small) |
+| <= 767px  | 720px design (small) |
+| <= 991px  | 1024px design (medium) |
+| >= 992px  | 1440px design (large) |
 
 ## Extension
 | Breakpoint  | Design Viewport |
