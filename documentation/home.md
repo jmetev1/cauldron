@@ -23,10 +23,10 @@ Breakpoints are widths that determine how your responsive layout behaves across 
 ## Extension
 | Breakpoint  | Design Viewport |
 | ------------- | ------------- |
-| N/A  | 320px design (small) |
-| N/A  | 480px design (default) |
-| N/A  | 600px design (large) |
-| N/A  | 1440px design (wide) |
+| N/A  | 320px design (extra small) |
+| N/A  | 480px design (small _default_) |
+| N/A  | 600px design (medium) |
+| N/A  | 1440px design (large) |
 
 # Typography
 Documentation and examples for Cauldron typography, including global settings, headings, body text, lists, and more.
